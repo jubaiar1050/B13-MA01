@@ -81,4 +81,44 @@ nav ul li a{
     color: #FFFFFF;
     margin-bottom: 32px;
 }
+.icon{
+    padding-left: 10px;
+}
+#Note{
+    text-align: center;
+    padding: 0px 120px 120px 120px;
+}
+.Note-header p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #627382;
+    margin-bottom: 44px;
+}
+.Note-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px
+}
+.Note-info{
+    width: 322px;
+    padding: 70px 24px 0px 24px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.081);
+}
+.Note-info img{
+    padding: 13.6px 14.4px;
+    background-color: #F95555;
+    border-radius: 50%;
+}
+.Note-info h2{
+    font-size: 24px;
+    font-weight: 600;
+    color: #001931;
+}
+.Note-info p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #627382;
+}
+
 
