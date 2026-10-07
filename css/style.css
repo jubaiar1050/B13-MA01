@@ -182,5 +182,47 @@ nav ul li a{
     line-height: 24px;
     color: #627382;
 }
+footer{
+    background-color: rgba(0, 25, 49, 1);
+    padding-bottom: 30px;
+}
+footer .social-activities{
+    padding: 120px 120px 80px 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 790px;
+}
+.footer-logo{
+    width: 350px;
+    height: 60px;
+}
+.foot-social{
+    width: 220px;
+    height: 64px;
+}
+.foot-social p{
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+.foot-social img{
+    width: 20px;
+    height: 20px;
+    margin-right: 16px;
+}
+.copy-right{
+    margin-top: 30px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #FFFFFF;
+    text-align: center;
+}
+.btn:hover, .btn-uc:hover{
+    color: #F95555;
+    box-shadow: 0 -4px 8px rgba(0,0,0,0.3);
+    cursor: pointer;
+}
 
 
