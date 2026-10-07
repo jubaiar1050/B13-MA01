@@ -162,5 +162,25 @@ nav ul li a{
     height: 20px;
     margin-right: 6px;
 }
+#think-more{
+    padding: 0px 120px 120px 120px;
+}
+.clearly-thinking{
+    text-align: center;
+    background-color: rgba(247, 246, 242, 1);
+    border-radius: 12px;
+    padding: 80px 40px;
+}
+.clearly-thinking h2{
+    font-size: 40px;
+    font-weight: 700;
+    color: rgba(0, 25, 49, 1);
+}
+.clearly-thinking p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #627382;
+}
 
 
