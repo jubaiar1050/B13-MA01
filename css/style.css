@@ -120,5 +120,47 @@ nav ul li a{
     font-weight: 400;
     color: #627382;
 }
+#brain{
+    padding: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:60px;
+}
+.brain-img{
+    width: 600px;
+    height: 600px;
+    border-radius: 12px;
+}
+.brain-content h4{
+    font-size: 16px;
+    font-weight: 500;
+    color: #30B868;
+    margin-bottom: 16px;
+}
+.brain-content h2{
+    font-size: 48px;
+    font-weight: 700;
+    color: #001931;
+    margin-bottom: 16px;
+}
+.brain-content p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #627382;
+    margin-bottom: 40px;
+}
+.brain-content li{
+    list-style: none;
+    font-size: 16px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+}
+.brain-content li span img{
+    width: 20px;
+    height: 20px;
+    margin-right: 6px;
+}
 
 
